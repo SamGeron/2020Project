@@ -1,6 +1,12 @@
 
 # 2020Projects
 
+## In this page you will see my Cyber Security projects from this year, including:
+1. Azure Virtual Network Topologies
+2. Some Ansible YAML plabooks
+3. Some Linux bash scripts
+
+
 ## **Azure Topology**
 
 ### **Virtual Network Topology with ELK**
@@ -265,3 +271,4 @@ The following script will be able to pull any day and time as explained in the s
 # awk will print the field data - time and name. eg. 05:00:00 AM Billy Jones 
 cat $1* | grep $2 | grep $3 |  awk -F" " '{print $1, print $2, print $5, print$6}'
 ```
+
