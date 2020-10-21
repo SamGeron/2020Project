@@ -200,7 +200,7 @@ Here are some simple bash scripts for isolating data and events from logs. Here 
 
 ### Log Data for Analysis
 
-##### Loss Times Player Data
+#### Loss Times Player Data
 ###### 0310_win_loss_player_data:05:00:00 AM	-$82,348	Amirah Schneider,Nola Portillo, Mylie Schmidt,Suhayb Maguire,Millicent Betts,Avi Graves
 ###### 0310_win_loss_player_data:08:00:00 AM	-$97,383	Chanelle Tapia, Shelley Dodson , Valentino Smith, Mylie Schmidt
 ###### 0310_win_loss_player_data:02:00:00 PM	-$82,348	Jaden Clarkson, Kaidan Sheridan, Mylie Schmidt 
@@ -216,6 +216,7 @@ Here are some simple bash scripts for isolating data and events from logs. Here 
 ###### 0315_win_loss_player_data:02:00:00 PM	-$182,419        Mylie Schmidt, Corey Huffman
 
 #### Loss Times Dealer Data
+###### (example of the 3rd of March)
 ###### Hour AM/PM	BlackJack_Dealer_FNAME LAST	Roulette_Dealer_FNAME LAST	Texas_Hold_EM_dealer_FNAME LAST
 
 ###### 12:00:00 AM	Izabela Parrish	Marlene Mcpherson	Madina Britton
