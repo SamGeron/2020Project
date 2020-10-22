@@ -3,7 +3,7 @@
 
 ### In this page you will see my Cyber Security projects from this year, including:
 1. Azure Virtual Network Topologies
-2. Some Ansible YAML plabooks
+2. Some Ansible YAML playbooks
 3. Some Linux bash scripts
 
 
