@@ -1,7 +1,7 @@
 
 # 2020Projects
 
-### In this page you will see my Cyber Security projects from this year, including:
+### In this GitHub repository you will see my Cyber Security projects from this year, including:
 1. Azure Virtual Network Topologies
 2. Some Ansible YAML playbooks
 3. Some Linux bash scripts
