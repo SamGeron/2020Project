@@ -47,9 +47,9 @@ Decrypt Base64 ecrypted invite key:
 
 ![alt text](https://github.com/SamGeron/2020Projects/blob/main/HacktheBox/images/Picture13.png)
 
-(Someone else’s) Alternate method for a POST request:
+Alternate method for a POST request using Burp Suite (not my own solution, sourced from jamesdotcom.com):
 
-With Burpsuite loaded and configured to intercept from the browser.
+With Burpsuite loaded and configured to intercept from the browser -
 Activate intercept, type in anything into HackTheBox invite code frame and capture a genuine POST request in Burp Suite.
 
 ![alt text](https://github.com/SamGeron/2020Projects/blob/main/HacktheBox/images/Picture14.png)
