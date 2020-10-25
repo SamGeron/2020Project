@@ -1,3 +1,5 @@
+## My solution to hack the login page to *HackTheBox* to generate an invite key.
+
 
 ![alt text](https://github.com/SamGeron/2020Projects/blob/main/HacktheBox/images/Picture1.png)
 
