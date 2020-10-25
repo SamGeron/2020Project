@@ -26,6 +26,7 @@ Clear the page, add the function, without the rest of the Javascript and press e
 ![alt text](https://github.com/SamGeron/2020Projects/blob/main/HacktheBox/images/Picture7.png)
 
 Check the encryption type (hint is always provided below the key code):
+
 First time I ran it, it was a cypher text with ROT13 encryption.
 
 ![alt text](https://github.com/SamGeron/2020Projects/blob/main/HacktheBox/images/Picture8.png)
