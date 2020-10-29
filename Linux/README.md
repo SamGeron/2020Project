@@ -49,7 +49,7 @@ Here are some simple bash scripts for isolating data and events from logs. Here 
 ###### 10:00:00 PM	Evalyn Howell	Katey Bean	Cleveland Hanna
 ###### 11:00:00 PM	Cleveland Hanna	Billy Jones	Rahima Figueroa
 
-The following script will manually pull the Roulette loss event dealer's name that was working at 05:00:00 AM on the 3rd of March, and appending the output to the investigation file "Dealers_Working_During_Losses". Each entry will be labelled with the date. The date can be adjusted by changing the date being labelled and changing log file date being accessed. The time can also be adjusted in the script. Alternatively, a collection of scripts of times and calendar days can be made to access this type of data.
+The following script will manually pull the Roulette loss event dealer's name that was working at 05:00:00 AM on the 10th of March, and appending the output to the investigation file "Dealers_Working_During_Losses". Each entry will be labelled with the date. The date can be adjusted by changing the date being labelled and changing log file date being accessed. The time can also be adjusted in the script. Alternatively, a collection of scripts of times and calendar days can be made to access this type of data.
 
 ```
 #!/bin/bash/
@@ -61,7 +61,7 @@ cd ~/Casino_Theft_Investigations/Roulette_Loss_Investigation/Dealer_Analysis
 grep "05:00:00 AM" 0310_Dealer_schedule | awk -F" " '{print $1, $2, $5, $6}' >> Dealers_Working_During_Losses
 ```
 
-The following script will be able to pull any day and time as explained in the script. Regardless of the filename, providing they are logged systematically starting with day/month or vice versa, the user need on input into the command line: day/month (0310), time (05:00:00), AM or PM (AM), and the output will provide the time and name of the dealer. Multiple days could be searched at once in this way (eg. 03* would search all of May), although these entries won't as yet identify the days. 
+The following script will be able to pull any day and time as explained in the script. Regardless of the filename, providing they are logged systematically starting with day/month or vice versa, the user needs to input into the command line: day/month (0310), time (05:00:00), AM or PM (AM), and the output will provide the time and name of the dealer. Multiple days could be searched at once in this way (eg. 03* would search all of May), although these entries won't as yet identify the days. Results can also be output into an investigation file as above *>> Dealers_Working_During_Losses*.
 
 ```
 #!/bin/bash
