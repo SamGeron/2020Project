@@ -68,7 +68,7 @@ Response 200 OK
 
 with code at the bottom
 
-![alt text](https://github.com/SamGeron/2020Projects/blob/main/HacktheBox/images/Picture17.png)
+![alt text](https://github.com/SamGeron/2020Projects/blob/main/HacktheBox/images/Picture18.png)
 
 then decrypt as above with any Base64 decoder.
 
