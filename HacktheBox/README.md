@@ -64,7 +64,7 @@ Change POST request from /invite to /api/invite/generate
 
 Response 200 OK 
 
-![alt text](https://github.com/SamGeron/2020Projects/blob/main/HacktheBox/images/Picture12.png)
+![alt text](https://github.com/SamGeron/2020Projects/blob/main/HacktheBox/images/Picture16.png)
 
 with code at the bottom
 
