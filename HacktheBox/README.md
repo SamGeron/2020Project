@@ -58,13 +58,13 @@ Activate intercept, type in anything into HackTheBox invite code frame and captu
 
 Send to repeater:
 
-![alt text](https://github.com/SamGeron/2020Projects/blob/main/HacktheBox/images/Picture15.png)
-
 Change POST request from /invite to /api/invite/generate
+
+![alt text](https://github.com/SamGeron/2020Projects/blob/main/HacktheBox/images/Picture15.png)
 
 Response 200 OK 
 
-![alt text](https://github.com/SamGeron/2020Projects/blob/main/HacktheBox/images/Picture12.png)
+![alt text](https://github.com/SamGeron/2020Projects/blob/main/HacktheBox/images/Picture16.png)
 
 with code at the bottom
 
