@@ -2,7 +2,7 @@
 # 2020Projects
 
 ### In this GitHub repository you will see my Cyber Security projects from this year, including:
-1. Azure Virtual Network topologies
+1. My Azure Virtual Network 
 2. Ansible YAML playbooks
 3. [Linux bash scripts](https://github.com/SamGeron/2020Projects/tree/main/Linux) 
 4. [My login solution](https://github.com/SamGeron/2020Projects/tree/main/HacktheBox) to the HackTheBox PenTesting training grounds  
