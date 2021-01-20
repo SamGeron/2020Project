@@ -7,7 +7,7 @@
 3. [Linux bash scripts](https://github.com/SamGeron/2020Projects/tree/main/Linux) 
 4. [My login solution](https://github.com/SamGeron/2020Projects/tree/main/HacktheBox) to the HackTheBox PenTesting training grounds  
 5. [Red Team vs Blue Project](https://github.com/SamGeron/Red-Team-vs-Blue-Team)
-6. [Final Project Report](https://github.com/SamGeron/2020Projects/blob/main/Final%20Project%20Report.pdf) -  involves managing both the Red Team penetration test and the Blue Team defence and system hardening
+6. [Final Project Report](https://github.com/SamGeron/2020Projects/blob/main/Final%20Project%20Report.pdf) and [Presentation](https://github.com/SamGeron/2020Projects/blob/main/Final%20Project%20Presentation%20Sam%20Geron.pptx) -  involves managing both the Red Team penetration test and the Blue Team defence and system hardening
 
 ## **Azure Topology**
 
