@@ -6,7 +6,7 @@
 2. Some Ansible YAML playbooks
 3. Some Linux bash scripts
 4. My login solution to the HackTheBox PenTesting training grounds  
-5. Final Project - involves managing both the Red Team penetration test and the Blue Team defence and system hardening
+5. Final Project [Report](https://github.com/SamGeron/2020Projects/blob/main/Final%20Project%20Report.pdf) -  involves managing both the Red Team penetration test and the Blue Team defence and system hardening
 
 ## **Azure Topology**
 
